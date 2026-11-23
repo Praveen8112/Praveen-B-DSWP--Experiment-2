@@ -1,5 +1,5 @@
 # Praveen-B-DSWP--Experiment-2
-#-Experiment-2-Customer-Data-Exploration-Using-Pandas
+# Experiment-2-Customer-Data-Exploration-Using-Pandas
 
 ## Aim
 To create a sample customer dataset and perform data exploration, filtering, sorting, grouping, and basic statistical analytics using Pandas functions in Python.
